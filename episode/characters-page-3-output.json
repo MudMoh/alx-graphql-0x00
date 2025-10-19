@@ -1,0 +1,30 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 4,
+        "prev": 2
+      },
+      "results": [
+        {
+          "id": "41",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female"
+        },
+        {
+          "id": "42",
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male"
+        }
+      ]
+    }
+  }
+}

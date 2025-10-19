@@ -1,0 +1,18 @@
+query GetCharactersPage2 {
+  characters(page: 2) {
+    info {
+      count
+      pages
+      next
+      prev
+    }
+    results {
+      id
+      name
+      status
+      species
+      type
+      gender
+    }
+  }
+}

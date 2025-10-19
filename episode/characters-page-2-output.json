@@ -1,0 +1,30 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 3,
+        "prev": 1
+      },
+      "results": [
+        {
+          "id": "21",
+          "name": "Aqua Morty",
+          "status": "unknown",
+          "species": "Humanoid",
+          "type": "",
+          "gender": "Male"
+        },
+        {
+          "id": "22",
+          "name": "Aqua Rick",
+          "status": "unknown",
+          "species": "Humanoid",
+          "type": "",
+          "gender": "Male"
+        }
+      ]
+    }
+  }
+}

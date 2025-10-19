@@ -1,0 +1,30 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 5,
+        "prev": 3
+      },
+      "results": [
+        {
+          "id": "61",
+          "name": "Birdperson",
+          "status": "Dead",
+          "species": "Bird-Person",
+          "type": "",
+          "gender": "Male"
+        },
+        {
+          "id": "62",
+          "name": "Mr. Meeseeks",
+          "status": "unknown",
+          "species": "Meeseeks",
+          "type": "",
+          "gender": "Male"
+        }
+      ]
+    }
+  }
+}
